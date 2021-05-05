@@ -5,6 +5,7 @@ Generated this QR code with the help of basic python programming.
 # Requirement
 
 1)pip install qrcode
+
 2)pip install image
 
 # Github-QR-Code:-  
