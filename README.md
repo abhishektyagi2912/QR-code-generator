@@ -2,6 +2,11 @@
 
 Generated this QR code with the help of basic python programming.
 
+# Requirement
+
+1)pip install qrcode
+2)pip install image
+
 # Github-QR-Code:-  
 
 ![Github](https://user-images.githubusercontent.com/81071871/117170964-16b65c80-ade8-11eb-9c68-aa591aa729af.png)
