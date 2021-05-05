@@ -6,9 +6,9 @@ qr = qrcode.QRCode(
    border = 5
 )
 
-data = "https://www.linkedin.com/in/abhishek-tyagi-094b3a1b8/"
+data = "https://github.com/abhishektyagi2912"
 
 qr.add_data(data)
 qr.make(fit = True)
 img = qr.make_image(fill="black",back_color = "white")
-img.save("linkden.png")
+img.save("github.png")
